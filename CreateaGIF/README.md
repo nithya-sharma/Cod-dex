@@ -5,6 +5,7 @@ This project demonstrates how to create an animated GIF from a series of images 
 
 ### How it Works
 Prepare your image files: Ensure you have the image files you want to include in the GIF.
+
 Run the Python script: Execute the provided Python script to create the GIF from the images.
 
 ### Images
