@@ -7,4 +7,5 @@ A QR code (Quick Response code) is a 2D barcode that contains black squares arra
 ## Conclusion
 Through this project, I demonstrated how to generate a QR code using Python's qrcode and Pillow libraries. The entire process involves setting up the environment, writing a few lines of code to create and customize the QR code, and saving the resulting image. This method provides a simple yet powerful way to create QR codes for various applications, from sharing URLs to embedding data in a scannable format.
 
-![sampleimage](images/artsynithya_qr.png)
+![Sample Image](images/artsynithya_qr.png)
+
